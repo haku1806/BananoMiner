@@ -1,4 +1,4 @@
-
+#Tạm dừng hoạt động !
 ### `Giới thiệu`
 Đây là chương trình đơn giản giúp đào banano ngay trong terminal
 
