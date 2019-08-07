@@ -1,4 +1,4 @@
-#Tạm dừng hoạt động !
+# Tạm dừng hoạt động !
 ### `Giới thiệu`
 Đây là chương trình đơn giản giúp đào banano ngay trong terminal
 
@@ -100,7 +100,7 @@ Các bạn vô https://powerplant.banano.cc/ rồi điền đại chỉ ví Bana
 Chương trình được viết bởi Anzerr, chỉnh sửa bởi sgorki(Tô Quang Thắng).
 Nếu bạn cần trợ giúp vui lòng liên hệ với mình qua [Facebook](https://www.facebook.com/sgorkivn)
 #### Donate me :D
-Paypal: tqtdzpro@gmail.com 
+Paypal: sgorki@outlook.com
 
 Banano: ban_1drsdkbesy5x7g4ito61mgyzq1wwqzznkx8zks3s6bd71zcc4haospjk3za4
 
